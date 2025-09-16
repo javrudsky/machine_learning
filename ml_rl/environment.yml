@@ -1,0 +1,20 @@
+name: rl-gym
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - tensorflow
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - pillow 
+  - imageio
+  - seaborn
+  - scikit-learn
+  - pip
+  - pip:
+    - jupyterlab-vim
+    - gymnasium[classic_control,atari]
+    - notebook-intelligence
