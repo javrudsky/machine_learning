@@ -13,6 +13,7 @@ dependencies:
   - imageio
   - seaborn
   - scikit-learn
+  - category_encoders
   - pip
   - pip:
     - jupyterlab-vim
