@@ -14,8 +14,10 @@ dependencies:
   - seaborn
   - scikit-learn
   - category_encoders
+  - tabulate
   - pip
   - pip:
     - jupyterlab-vim
+    - jupyterlab-lsp
     - gymnasium[classic_control,atari]
     - notebook-intelligence
