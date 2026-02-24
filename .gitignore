@@ -3,4 +3,5 @@ kaggle/housing/data/
 start_book/ml_01/*.pkl
 start_book/ml_01/*.pkl:Zone.Identifier
 *.csv
+kaggle/housing/.ipynb_checkpoints/
 
