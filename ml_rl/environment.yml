@@ -15,6 +15,7 @@ dependencies:
   - scikit-learn
   - category_encoders
   - xgboost
+  - itables
   - pip
   - pip:
     - jupyterlab-vim
