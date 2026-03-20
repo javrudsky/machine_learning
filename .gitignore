@@ -1,3 +1,4 @@
+.DS_Store
 ml_rl/course/
 kaggle/housing/data/
 start_book/ml_01/*.pkl
